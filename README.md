@@ -10,7 +10,7 @@ Scraping:
 - https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars to get the images of 4 hemispheres of Mars
 
 Flask:
-- A python script to run all of the scrapping code was designed and all of the scrapped data was put into one Python dictionary.
+- A python script to run all of the scraping code was designed and all of the scraped data was put into one Python dictionary.
 
 - '/scrape' route which will import the Python script and call the scrape function was created.
 
